@@ -12,5 +12,4 @@ public class ClockConfiguration {
 	public Clock clock() {
 		return Clock.systemDefaultZone();
 	}
-
 }
